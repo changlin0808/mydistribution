@@ -1,0 +1,2 @@
+===20160827-153437,rop_test_reply_type[69]=== [+][GMS_REDIS]=REDIS_REPLY_ARRAY=[array] use reply->elements to get number of data, reply->element[index] to get (struct redisReply*) Object
+
