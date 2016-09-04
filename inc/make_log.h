@@ -2,6 +2,7 @@
 #define  _MAKE_LOG_H
 #include "pthread.h"
 // 到此一游
+// 咋的了
 int out_put_file(char *path, char *buf);
 int make_path(char *path, char *module_name, char *proc_name);
 int dumpmsg_to_file(char *module_name, char *proc_name, const char *filename,
